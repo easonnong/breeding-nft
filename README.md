@@ -1,12 +1,12 @@
-## Quickstart
+## EyeGenesis + EyeColor = EyeBaby
 
 1. Clone and install dependencies
 
 After installing all the requirements, run the following:
 
 ```bash
-git clone https://github.com/smartcontractkit/hardhat-starter-kit/
-cd hardhat-starter-kit
+git clone https://github.com/easonnong/breeding-nft
+cd breeding-nft
 ```
 
 Then:
